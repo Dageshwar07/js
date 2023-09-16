@@ -516,3 +516,12 @@ const obj = [{
 // utility()
 
 // closure
+
+// function myfun(a) {
+//     const name = 'dageshwar'
+//     function displayName() {
+//         console.log(name +" " +a)
+//     }
+//     return displayName()
+// }
+// const res = myfun("hello")
